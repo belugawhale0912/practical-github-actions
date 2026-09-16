@@ -1,0 +1,39 @@
+title: Midnight Lo-Fi Lounge
+subtitle: Chill Beats & Coding Vibes
+author: Lo-Fi Audio Lab
+description: A curated feed of relaxing lo-fi beats, ambient sounds, and chill instrumentals perfect for coding, studying, and deep focus.
+image: /images/artwork.jpg
+language: en-us
+category: Music
+format: audio/mpeg
+item:
+  - title: EP01-Midnight Study Sessions
+    description: Smooth jazz-hop beats and warm vinyl crackles for late-night programming sessions.
+    published: Thu, 12 Jan 2026 18:00:00 GMT
+    file: /audio/EP01.mp3
+    duration: 00:01:02
+    length: 1496309
+  - title: EP02-Rainy City Window
+    description: Soft rain ambient textures blended with relaxing chillhop melodies.
+    published: Thu, 19 Jan 2026 18:00:00 GMT
+    file: /audio/EP02.mp3
+    duration: 00:01:02
+    length: 1506967
+  - title: EP03-Coffee & Code
+    description: Warm acoustic guitar chords and laid-back lofi drums to start your morning workflow.
+    published: Thu, 26 Jan 2026 18:00:00 GMT
+    file: /audio/EP03.mp3
+    duration: 00:01:02
+    length: 1510729
+  - title: EP04-Neon Horizon
+    description: Futuristic synthwave and chillwave grooves designed for deep concentration.
+    published: Thu, 02 Feb 2026 18:00:00 GMT
+    file: /audio/EP04.mp3
+    duration: 00:00:57
+    length: 1393491
+  - title: EP05-Starry Night Flight
+    description: Downtempo ambient electronic beats to unwind after a long day of building software.
+    published: Thu, 09 Feb 2026 18:00:00 GMT
+    file: /audio/EP05.mp3
+    duration: 00:01:02
+    length: 1506967
