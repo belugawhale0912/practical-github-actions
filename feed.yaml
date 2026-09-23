@@ -6,6 +6,7 @@ image: /images/artwork.jpg
 language: en-us
 category: Music
 format: audio/mpeg
+link: https://belugawhale0912.github.io/practical-github-actions
 item:
   - title: EP01-Midnight Study Sessions
     description: Smooth jazz-hop beats and warm vinyl crackles for late-night programming sessions.
